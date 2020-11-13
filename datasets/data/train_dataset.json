@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "question": "Quel astronome a émit l'idée en premier d'une planète entre les orbites de Mars et Jupiter ?",
+            "context_id": 0
+        },
+        {
+            "question": "Quel astronome découvrit Uranus ?",
+            "context_id": 0
+        },
+        {
+            "question": "Quelles furent les découvertes finales des vingt-quatre astronomes ?",
+            "context_id": 0
+        },
+        {
+            "question": "Quelles furent les découvertes finales des vingt-quatre astronomes ?",
+            "context_id": 0
+        },
+        {
+            "question": "Combien de fois Piazzi est-il parvenu à observer Cérès ?",
+            "context_id": 1
+        },
+        {
+            "question": "Où se trouvait Barnaba Oriani en 1801 ?",
+            "context_id": 1
+        },
+        {
+            "question": "Dans quel revue scientifique fut publiées ces observations complètes ?",
+            "context_id": 1
+        },
+        {
+            "question": "Pourquoi Cérès n'était pas directement assimilable à une comète ?",
+            "context_id": 1
+        },
+        {
+            "question": "Pour quelle raison on ne put plus observer Cérès ?",
+            "context_id": 2
+        },
+        {
+            "question": "Qui est parvenu à déterminer approximativement la position de Cérès ?",
+            "context_id": 2
+        },
+        {
+            "question": "Quelle méthode fut utilisée pour retrouver la position de Cérès ?",
+            "context_id": 2
+        },
+        {
+            "question": "Quel poste occupait Franz Xaver von Zach ?",
+            "context_id": 2
+        },
+        {
+            "question": "Pour quelles raisons seule la première partie du nom fut conservée ?",
+            "context_id": 3
+        },
+        {
+            "question": "Quel est le nom grec de Cérès ?",
+            "context_id": 3
+        },
+        {
+            "question": "Quel nom eut Cérès pendant un court moment en Allemagne ?",
+            "context_id": 3
+        },
+        {
+            "question": "Qu'est-ce qui résulte de la désignation des planètes mineures ?",
+            "context_id": 4
+        },
+        {
+            "question": "Dans quelle région du système solaire se trouve Cérès ?",
+            "context_id": 4
+        },
+        {
+            "question": "Quelles sont les désignation scientifiques de Cérès ?",
+            "context_id": 4
+        },
+        {
+            "question": "Quel symbole astronomique évoque Cérès ?",
+            "context_id": 4
+        },
+        {
+            "question": "Pourquoi le symbole de Cérès possède une faucille ?",
+            "context_id": 4
+        },
+        {
+            "question": "Que veut dire astéroïde ?",
+            "context_id": 5
+        },
+        {
+            "question": "Quel astéroïde fut le premier découvert ?",
+            "context_id": 5
+        },
+        {
+            "question": "Qui est à l'origine du terme astéroïde ?",
+            "context_id": 5
+        },
+        {
+            "question": "Que dit Herschel sur ces nouveaux corps similaires ?",
+            "context_id": 5
+        },
+        {
+            "question": "Quel évènement fit remonter à la surface le débat autour du statut de Cérès ?",
+            "context_id": 6
+        },
+        {
+            "question": "Quelle définition fut proposée d'une planète ?",
+            "context_id": 6
+        },
+        {
+            "question": "Quand se mit-on d'accord sur une définition de planète ?",
+            "context_id": 6
+        },
+        {
+            "question": "Comment est caractérisé désormais Cérès ?",
+            "context_id": 6
+        },
+        {
+            "question": "Selon les observations de la sonde Dawn à quand remonte la formation de Cérès ?",
+            "context_id": 7
+        },
+        {
+            "question": "Pourquoi Pallas et Vesta ne peuvent pas être d'anciennes protoplanètes ?",
+            "context_id": 7
+        },
+        {
+            "question": "Que serait à l'origine de la forme non sphérique de Vesta ?",
+            "context_id": 7
+        },
+        {
+            "question": "Quel autre astéroide aurait pu subir un même impact ?",
+            "context_id": 7
+        },
+        {
+            "question": "Pourquoi Cérès s'est différencié entre un noyau rocheux et un manteau de glace ?",
+            "context_id": 8
+        },
+        {
+            "question": "Qu'est-ce qui provoqua un volcanisme d'eau ?",
+            "context_id": 8
+        },
+        {
+            "question": "Que causa l'épuisement rapide des sources de chaleur ?",
+            "context_id": 8
+        },
+        {
+            "question": "Comment peut-on désormais qualifier Cérès ?",
+            "context_id": 8
+        },
+        {
+            "question": "Quelle hypothèse a été soulevé par l'existence de quantités importantes de glace d'eau dans Cérès ?",
+            "context_id": 9
+        },
+        {
+            "question": "Où devait se trouver la couche d'eau liquide sur Cérès ?",
+            "context_id": 9
+        },
+        {
+            "question": "Où devait se trouver la couche d'eau liquide sur Cérès ?",
+            "context_id": 9
+        },
+        {
+            "question": "Où devait se trouver la couche d'eau liquide sur Cérès ?",
+            "context_id": 9
+        },
+        {
+            "question": "Entre quelles planètes se trouve Cérès ?",
+            "context_id": 10
+        },
+        {
+            "question": "En combien de temps Cérès accomplit-il une révolution autour de son astre ?",
+            "context_id": 10
+        },
+        {
+            "question": "Quelle est l'inclinaison de l'orbite par rapport au plan de l'écliptique ?",
+            "context_id": 10
+        },
+        {
+            "question": "Quelle est l'inclinaison de l'orbite par rapport au plan de l'écliptique ?",
+            "context_id": 10
+        },
+        {
+            "question": "Quelle pourrait être une potentielle origine commune ?",
+            "context_id": 11
+        },
+        {
+            "question": "Qu'est-ce qui distingue Cérès des autres astéroïdes ?",
+            "context_id": 11
+        },
+        {
+            "question": "Qu'est-ce qui distingue Cérès des autres astéroïdes ?",
+            "context_id": 11
+        },
+        {
+            "question": "Qu'est-ce qui distingue Cérès des autres astéroïdes ?",
+            "context_id": 11
+        },
+        {
+            "question": "A quel groupe d'astéroïde le composition de la surface de Cérès est très proche ?",
+            "context_id": 12
+        },
+        {
+            "question": "Que possède Cérès dans sa composition que les autres astéroïdes de type C ne possèdent pas ?",
+            "context_id": 12
+        },
+        {
+            "question": "A quel groupe appartient Cérès ?",
+            "context_id": 12
+        },
+        {
+            "question": "A quel groupe appartient Cérès ?",
+            "context_id": 12
+        },
+        {
+            "question": "Vers quelle longueur d'onde retrouve-t-on un pic d'absorption ?",
+            "context_id": 13
+        },
+        {
+            "question": "Quel appareil a relevé un pic d'absorption ?",
+            "context_id": 13
+        },
+        {
+            "question": "Qu'illustre le pic d'absorption ?",
+            "context_id": 13
+        },
+        {
+            "question": "Près de quel cratère retrouve-t-on de la matière organique aliphatique ?",
+            "context_id": 13
+        },
+        {
+            "question": "A quand remonte le pic de température diurne ?",
+            "context_id": 14
+        },
+        {
+            "question": "En Kelvin à combien montait la température diurne à son pic ?",
+            "context_id": 14
+        },
+        {
+            "question": "Comment a-t-on détecté de la vapeur d'eau près du pole nord ?",
+            "context_id": 14
+        },
+        {
+            "question": "Quel télescope découvrit Piazzi en premier ?",
+            "context_id": 15
+        },
+        {
+            "question": "A quand remonte la découverte du point sombre ?",
+            "context_id": 15
+        },
+        {
+            "question": "Qui se nommait également Piazzi ?",
+            "context_id": 15
+        },
+        {
+            "question": "Quelle méthode utilisa le télescope Keck ?",
+            "context_id": 15
+        },
+        {
+            "question": "A quand remonte les dernières images prises par Hubble en lumière visible ?",
+            "context_id": 15
+        },
+        {
+            "question": "Quelle découverte fit la sonde Dawn en 2015 ?",
+            "context_id": 16
+        },
+        {
+            "question": "Quel est l'altitude du mont Ahuna ?",
+            "context_id": 16
+        },
+        {
+            "question": "Quelles particularités possède le mont Ahuna ?",
+            "context_id": 16
+        },
+        {
+            "question": "Quel est le diamètre de Yalode ?",
+            "context_id": 16
+        },
+        {
+            "question": "Qui et quand peut-on percevoir la planète naine à oeil nu ?",
+            "context_id": 17
+        },
+        {
+            "question": "Quelle astéroïde peut le plus fréquemment atteindre une magnitude de +6,7 ?",
+            "context_id": 17
+        },
+        {
+            "question": "A quand remonte le dernier pic de magnitude de Vesta ?",
+            "context_id": 17
+        },
+        {
+            "question": "Quand est-ce que la planète naine peut être vu aux jumelles ?",
+            "context_id": 17
+        },
+        {
+            "question": "Quand est-ce que les conclusions sur les observations de 2016 sont publiées ?",
+            "context_id": 18
+        },
+        {
+            "question": "Quel observatoire a réalisé ces observations ?",
+            "context_id": 18
+        },
+        {
+            "question": "En dehors de la structure de Cérès qu'illustre ces observations ?",
+            "context_id": 18
+        },
+        {
+            "question": "Qu'est-ce qui est ainsi montré au grand public ?",
+            "context_id": 18
+        }
+    ],
+    "version": 1.0
+}
