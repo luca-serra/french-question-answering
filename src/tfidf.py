@@ -39,7 +39,7 @@ c_2 = 0
 c_top_avg = 0
 c_top_ratio = 0
 inter = 0
-random.Random(1).shuffle(questions['data'])
+random.shuffle(questions['data'])
 for q in questions['data'][:n]:
     pred_true = False
 
@@ -52,7 +52,7 @@ for q in questions['data'][:n]:
     # tokenizer = utils.spacy_tokenizer
     tokenizer = utils.custom_tokenizer
     vocabulary = tokenizer(question, remove_duplicate=True)
-    vectorizer = TfidfVectorizer(vocabulary=vocabulary, tokenizer=tokenizer, sublinear_tf=True)
+    vectorizer = TfidfVectorizer(vocabulary=vocabulary, tokenizer=tokenizer, norm=None, binary=True)
     # print([tuple['context'] for tuple in contexts['data'][:5]])
     x = vectorizer.fit_transform(corpus)
     x = x.toarray()

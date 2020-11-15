@@ -105,7 +105,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+venv/ 
 ENV/
 env.bak/
 venv.bak/
@@ -127,4 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# others
+
+draft.py
 
