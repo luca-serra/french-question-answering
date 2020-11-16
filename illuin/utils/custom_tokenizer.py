@@ -6,7 +6,7 @@ nlp = fr_core_news_sm.load()
 PUNCTUATIONS = string.punctuation.replace("'", '').replace('[', '').replace(']', '')
 PUNCTUATIONS = '[' + ' '.join(PUNCTUATIONS) + ' « »' + ']'
 STOP_WORDS = nlp.Defaults.stop_words
-ADDED_STOP_WORDS = ['t', 'y', "s'", "l'"]  # stop words that I found to be useful to increase performance
+ADDED_STOP_WORDS = ['t', 'y', "s'", "l'", 's']  # stop words that I found to be useful to increase performance
 for word in ADDED_STOP_WORDS:
     STOP_WORDS.add(word)
 
