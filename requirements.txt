@@ -1,6 +1,4 @@
 
-fr-core-news-sm==2.3.0
--e git+https://github.com/luca-serra/illuin-fquad.git@7173dcb8c8527610a1e91451da4ac31284f88c6c#egg=illuin
 numpy==1.19.4
 pytest==6.1.2
 pyzmq==20.0.0
