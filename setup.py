@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/luca-serra/illuin-fquad",
-    packages=['illuin', 'illuin.utils', 'tests', 'tests.utils'],  # find_packages(where='illuin'),
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent"

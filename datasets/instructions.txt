@@ -1,6 +1,6 @@
-To get the datasets necessary for this project:
+To have the datasets, follow these instructions:
 
 1. Download the FQuAD dataset (https://www.illuin.tech/).
 2. Place the 'train.json' file into the 'data' folder.
-3. Run the command `cd datasets && python dataset_creation.py`. 
+3. Run the command `cd illuin/utils && python dataset_creation.py`. 
 4. Make sure you have the files 'contexts.json' and 'questions.json' in the 'data' folder.
