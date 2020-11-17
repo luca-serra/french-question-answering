@@ -13,7 +13,6 @@ def build_features(tfidf_matrix):
         for value in row:
             if value != 0:
                 count += 1
-
         return [np.mean(row), count / row.shape[0]]
 
     features = []
@@ -21,3 +20,10 @@ def build_features(tfidf_matrix):
         features.append(_build_row_features(tfidf_matrix[row_idx, :]))
 
     return np.array(features)
+
+
+def argmax_n(array, n):
+    """Return the indices of the top n values of array"""
+    indices = np.argpartition(array, -n)[-n:]
+    indices = indices[np.argsort(-array[indices])]
+    return indices
