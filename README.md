@@ -6,7 +6,7 @@ This project aims to develop a model able to give the most relevant context to w
 
 ## Requirements
 
-You can install the required packages by running `pip install -r requirements.txt`. Since the code uses absolute imports from the root of the project, you need to install the project by running `pip install -e path/to/project`.
+You can install the required packages by running `pip install -r requirements.txt`. Since the code uses absolute imports from the root of the project, you need to install the project by running `pip install -e path/to/project`. To install `fr_core_news_sm`, run `python -m spacy download fr_core_news_sm`.
 
 ## Data *(optional)*
 
@@ -14,8 +14,9 @@ The project is based on a split of FQuAD dataset (into a question file and a con
 
 *NB: installing these datasets is optional. It is not required to run the model. It is only suited if one wants to see how the data is used in the model.*
 
-## Usage
+## Usage of the Command Line Interface (CLI)
 
+Before using the CLI, download the train.json/valid.json files from the [FQuAD website](https://fquad.illuin.tech/) and place them into the `datasets/data` folder.
 To run the model, one can execute the command:
 `cd illuin && python main.py [options]`
 The possible `options` are the following:
@@ -25,7 +26,7 @@ The possible `options` are the following:
 - `-r`/`--random` boolean: whether the questions are in the file order
 - `-v`/`--verbose` boolean: whether to log some messages during prediction
 
-The Command Line Interface (CLI) can be used with a question asked by the user. For this, one may use:
+The CLI can be used with a question asked by the user. For this, one may use:
 
 - `-f`/`--filemode` False (use the model with one question defined in the CLI)
 - `-q`/`--question` question: the question asked by the user
