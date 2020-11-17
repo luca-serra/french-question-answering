@@ -1,6 +1,6 @@
-# Illuin: Find the best context with FQuAD
+# Illuin: Find the best context for Question Answering (QA)
 
-In 2019, [Illuin](https://www.illuin.tech/) released the first French Question Answering Dataset (named [FQuAD](https://fquad.illuin.tech/)). A first (but important) step for Question Answering problems is to select the *context* in which the model will apply.
+In 2019, [Illuin](https://www.illuin.tech/) released the first French Question Answering Dataset (named [FQuAD](https://fquad.illuin.tech/)). A first (but important) step for QA problems is to select the *context* in which the model will apply.
 
 This project aims to develop a model able to give the most relevant context to work on given a question. (This project has not for purpose to find the answer to the question.)
 
