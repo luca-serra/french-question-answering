@@ -61,6 +61,6 @@ The algorithm performances are the following:
 
 ## Conclusion: 
 
-The TFIDF approach has shown some satisfying results but may certainely be improved. Indeed, it does not account for the order of the words in the documents for instance. 
+The TFIDF approach has shown some satisfying results but may certainly be improved. Indeed, it does not account for the order of the words in the documents for instance. 
 
 A word embedding approach has been tested (see `embedded_draft.py`) but due to lack of time, no conclusion can be made about its performances for the moment.
