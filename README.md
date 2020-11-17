@@ -6,7 +6,7 @@ This project aims to develop a model able to give the most relevant context to w
 
 ## Requirements
 
-You can install the required packages by running `pip install -r requirements.txt`. The code uses absolute imports from the root of the project, you can install the project by running `pip install -e path/to/project`.
+You can install the required packages by running `pip install -r requirements.txt`. Since the code uses absolute imports from the root of the project, you need to install the project by running `pip install -e path/to/project`.
 
 ## Data *(optional)*
 
