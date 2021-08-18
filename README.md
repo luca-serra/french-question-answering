@@ -1,4 +1,4 @@
-# Illuin: Find the best context for Question Answering (QA)
+# Question Answering (QA): Find the best context
 
 In 2019, [Illuin](https://www.illuin.tech/) released the first French Question Answering Dataset (named [FQuAD](https://fquad.illuin.tech/)). A first (but important) step for QA problems is to select the *context* in which the model will apply.
 
